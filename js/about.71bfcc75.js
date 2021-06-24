@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(t,a,e){"use strict";e.r(a);var n=function(){var t=this,a=t.$createElement;t._self._c;return t._m(0)},r=[function(){var t=this,a=t.$createElement,e=t._self._c||a;return e("div",{staticClass:"about"},[e("h1",[e("br"),t._v("Creator: vikakkh "),e("br"),t._v("E-mail: vikakh07@gmail.com "),e("br"),t._v("Location: Kiyv, Ukraine ")])])}],i=e("2877"),c={},l=Object(i["a"])(c,n,r,!1,null,null,null);a["default"]=l.exports}}]);
+//# sourceMappingURL=about.71bfcc75.js.map
